@@ -1,0 +1,34 @@
+C:\Users\Williams\Desktop\Practica#1-POEDemo\Practica#1-POE\bin\Debug\net8.0-windows\Practica#1-POE.exe
+C:\Users\Williams\Desktop\Practica#1-POEDemo\Practica#1-POE\bin\Debug\net8.0-windows\Practica#1-POE.deps.json
+C:\Users\Williams\Desktop\Practica#1-POEDemo\Practica#1-POE\bin\Debug\net8.0-windows\Practica#1-POE.runtimeconfig.json
+C:\Users\Williams\Desktop\Practica#1-POEDemo\Practica#1-POE\bin\Debug\net8.0-windows\Practica#1-POE.dll
+C:\Users\Williams\Desktop\Practica#1-POEDemo\Practica#1-POE\bin\Debug\net8.0-windows\Practica#1-POE.pdb
+C:\Users\Williams\Desktop\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica_1_POE.Forms.EventoDeMouse.resources
+C:\Users\Williams\Desktop\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica#1-POE.csproj.GenerateResource.cache
+C:\Users\Williams\Desktop\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica#1-POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Williams\Desktop\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica#1-POE.AssemblyInfoInputs.cache
+C:\Users\Williams\Desktop\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica#1-POE.AssemblyInfo.cs
+C:\Users\Williams\Desktop\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica#1-POE.csproj.CoreCompileInputs.cache
+C:\Users\Williams\Desktop\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica#1-POE.dll
+C:\Users\Williams\Desktop\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\refint\Practica#1-POE.dll
+C:\Users\Williams\Desktop\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica#1-POE.pdb
+C:\Users\Williams\Desktop\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica#1-POE.genruntimeconfig.cache
+C:\Users\Williams\Desktop\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\ref\Practica#1-POE.dll
+C:\Users\Williams\Desktop\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica_1_POE.Forms.EventosTeclado.resources
+C:\Users\MINEDUCYT\Downloads\Practica #1-20240819\Practica1POE\Practica#1-POEDemo\Practica#1-POE\bin\Debug\net8.0-windows\Practica#1-POE.exe
+C:\Users\MINEDUCYT\Downloads\Practica #1-20240819\Practica1POE\Practica#1-POEDemo\Practica#1-POE\bin\Debug\net8.0-windows\Practica#1-POE.deps.json
+C:\Users\MINEDUCYT\Downloads\Practica #1-20240819\Practica1POE\Practica#1-POEDemo\Practica#1-POE\bin\Debug\net8.0-windows\Practica#1-POE.runtimeconfig.json
+C:\Users\MINEDUCYT\Downloads\Practica #1-20240819\Practica1POE\Practica#1-POEDemo\Practica#1-POE\bin\Debug\net8.0-windows\Practica#1-POE.dll
+C:\Users\MINEDUCYT\Downloads\Practica #1-20240819\Practica1POE\Practica#1-POEDemo\Practica#1-POE\bin\Debug\net8.0-windows\Practica#1-POE.pdb
+C:\Users\MINEDUCYT\Downloads\Practica #1-20240819\Practica1POE\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica_1_POE.Forms.EventoDeMouse.resources
+C:\Users\MINEDUCYT\Downloads\Practica #1-20240819\Practica1POE\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica_1_POE.Forms.EventosTeclado.resources
+C:\Users\MINEDUCYT\Downloads\Practica #1-20240819\Practica1POE\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica#1-POE.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Downloads\Practica #1-20240819\Practica1POE\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica#1-POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Downloads\Practica #1-20240819\Practica1POE\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica#1-POE.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Downloads\Practica #1-20240819\Practica1POE\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica#1-POE.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Downloads\Practica #1-20240819\Practica1POE\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica#1-POE.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Downloads\Practica #1-20240819\Practica1POE\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica#1-POE.dll
+C:\Users\MINEDUCYT\Downloads\Practica #1-20240819\Practica1POE\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\refint\Practica#1-POE.dll
+C:\Users\MINEDUCYT\Downloads\Practica #1-20240819\Practica1POE\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica#1-POE.pdb
+C:\Users\MINEDUCYT\Downloads\Practica #1-20240819\Practica1POE\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\Practica#1-POE.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Downloads\Practica #1-20240819\Practica1POE\Practica#1-POEDemo\Practica#1-POE\obj\Debug\net8.0-windows\ref\Practica#1-POE.dll
