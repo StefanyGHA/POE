@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\Desktop\SistemaReservasHotel\FormConfirmacion\obj\Debug\net8.0-windows\FormConfirmacion.FormConfirmacion.resources
+C:\Users\MINEDUCYT\Desktop\SistemaReservasHotel\FormConfirmacion\obj\Debug\net8.0-windows\FormConfirmacion.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\SistemaReservasHotel\FormConfirmacion\obj\Debug\net8.0-windows\FormConfirmacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\SistemaReservasHotel\FormConfirmacion\obj\Debug\net8.0-windows\FormConfirmacion.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\SistemaReservasHotel\FormConfirmacion\obj\Debug\net8.0-windows\FormConfirmacion.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\SistemaReservasHotel\FormConfirmacion\obj\Debug\net8.0-windows\FormConfirmacion.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\SistemaReservasHotel\FormConfirmacion\obj\Debug\net8.0-windows\FormConfirmacion.csproj.AssemblyReference.cache

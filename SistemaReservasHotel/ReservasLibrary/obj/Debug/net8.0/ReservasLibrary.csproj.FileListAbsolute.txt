@@ -1,0 +1,11 @@
+C:\Users\MINEDUCYT\Desktop\SistemaReservasHotel\ReservasLibrary\bin\Debug\net8.0\ReservasLibrary.deps.json
+C:\Users\MINEDUCYT\Desktop\SistemaReservasHotel\ReservasLibrary\bin\Debug\net8.0\ReservasLibrary.dll
+C:\Users\MINEDUCYT\Desktop\SistemaReservasHotel\ReservasLibrary\bin\Debug\net8.0\ReservasLibrary.pdb
+C:\Users\MINEDUCYT\Desktop\SistemaReservasHotel\ReservasLibrary\obj\Debug\net8.0\ReservasLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\SistemaReservasHotel\ReservasLibrary\obj\Debug\net8.0\ReservasLibrary.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\SistemaReservasHotel\ReservasLibrary\obj\Debug\net8.0\ReservasLibrary.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\SistemaReservasHotel\ReservasLibrary\obj\Debug\net8.0\ReservasLibrary.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\SistemaReservasHotel\ReservasLibrary\obj\Debug\net8.0\ReservasLibrary.dll
+C:\Users\MINEDUCYT\Desktop\SistemaReservasHotel\ReservasLibrary\obj\Debug\net8.0\refint\ReservasLibrary.dll
+C:\Users\MINEDUCYT\Desktop\SistemaReservasHotel\ReservasLibrary\obj\Debug\net8.0\ReservasLibrary.pdb
+C:\Users\MINEDUCYT\Desktop\SistemaReservasHotel\ReservasLibrary\obj\Debug\net8.0\ref\ReservasLibrary.dll
